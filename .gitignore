@@ -1,0 +1,10 @@
+.vscode
+cocoapi/*
+daec_exp/results/*
+data/coco/*
+data/mpii/*
+log/*
+*.pth
+output/*
+__pycache__
+*.so
