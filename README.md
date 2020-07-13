@@ -10,10 +10,17 @@
 ## Introduction
 &ensp; &ensp; Serving as a model-agnostic plug-in, DAEC learns its decoding strategy from training data and remarkably improves the performance of a variety of state-of-the-art human pose estimation models. Extensive experiments performed on two common benchmarks, COCO and MPII, demonstrates that DAEC exceeds its competitors by considerable margins, backing up the rationality and generality of our novel heatmap decoding idea.
 
-<p align="center">
-<img src="./figures/coco.jpg" width="600" align=center />
+
+
+![Illustrating the architecture of the proposed DARK](/figures/coco.jpg)
+   
+![Illustrating the architecture of the proposed DARK](/figures/mpii.jpg)
+
+<!-- <p align="center">
+![coco](/figures/coco.jpg)
+<img src="" width="600" align=center />
 <img src="./figures/mpii.jpg" width="600" align=center />
-</p>
+</p> -->
 
 ## Main Results
 ### Results on COCO val2017 
