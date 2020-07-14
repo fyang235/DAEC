@@ -119,3 +119,18 @@ then, the results are listed in file :
 ```
 daec_exp/results/results_slim.txt
 ```
+
+
+### Citation
+
+If you use our code or models in your research, please cite with:
+
+```
+@InProceedings{
+    author = {Feiyu Yang, Yu Chen, Zhe Pan, Min Zhang, Min Xue, Yaoyang Mo, Yao Zhang, Guoxiong Guan, Beibei Qian, Zhenzhong Xiao, Zhan Song},
+    title = {Train Your Data Processor: Distribution-Aware and Error-Compensation Coordinate Decoding for Human Pose Estimation},
+    month = {July},
+    year = {2020}
+}
+```
+
