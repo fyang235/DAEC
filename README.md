@@ -5,8 +5,9 @@
 </p>
 
 ## News
-* \[2020/07/13\] Code is released.
-
+* \[2020/07/13\] [Code](https://github.com/fyang235/DAEC/) is released.
+* \[2020/07/14\] DAEC is now on [ArXiv](https://arxiv.org/abs/2007.05887).
+  
 ## Introduction
 &ensp; &ensp; Serving as a model-agnostic plug-in, DAEC learns its decoding strategy from training data and remarkably improves the performance of a variety of state-of-the-art human pose estimation models. Extensive experiments performed on two common benchmarks, COCO and MPII, demonstrates that DAEC exceeds its competitors by considerable margins, backing up the rationality and generality of our novel heatmap decoding idea.
 
